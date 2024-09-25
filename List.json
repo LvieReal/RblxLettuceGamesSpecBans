@@ -1,4 +1,23 @@
 {
+    "BadgeBan": {
+        "IDs": [
+            2153475714, 2128237362, 2128237463,
+			2128237516, 2128237640, 906844068738280,
+			286953984328237, 2918283667377974
+        ],
+        "Reason": "Inappropriate",
+        "Note": "One of the badges you own are not appropriate.%s"
+    },
+    "GroupBan": {
+        "IDs": [
+            15824736, 2900754, 11992066,
+			6848745, 17229689, 33672457,
+			12000356, 17179149, 33761668,
+            7765801
+        ],
+        "Reason": "Inappropriate",
+        "Note": "One of the groups you're in are not appropriate.%s"
+    },
     "Accessories": {
         "TrustedCreatorIDs": [
             1
@@ -31,7 +50,6 @@
             "Astolfo", "Raven Team Leader"
         ],
         "Kick": false,
-        "Reason": "Child Endangerment",
-        "Reason17+": "Inappropriate"
+        "Reason": "Inappropriate"
     }
 }
