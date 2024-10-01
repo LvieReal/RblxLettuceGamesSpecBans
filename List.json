@@ -1,4 +1,9 @@
 {
+    "Configuration" : {
+        "BadgeCheck" : false,
+        "GroupCheck" : true,
+        "AccessoryCheck" : true
+    },
     "BadgeBan": {
         "IDs": [
             2153475714, 2128237362, 2128237463,
