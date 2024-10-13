@@ -80,6 +80,12 @@
                     "Super Happy Mask"
                 ],
                 "Kick": false
+            },
+            "Test": {
+                "Keywords": [
+                    "Void Fire Cloak"
+                ],
+                "Kick": true
             }
         }
     }
