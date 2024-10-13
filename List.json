@@ -41,31 +41,46 @@
             34518553, 32009710, 32646843,
             33594932, 5012036, 34864493,
             34212918, 34460147, 34216126,
-            33991852, 6118319, 34618121
+            33991852, 6118319, 34618121,
+            34319216, 34580806, 16804698
         ],
         "AssetIDs": [
             18208160068, 18208192249, 18208201794,
             18208213416, 17896819801, 17866956607
         ],
-        "Keywords": [
-            "Gyat", "Gyaat", "Gyaatt",
-            "Kemono Cat",
-            "Transfur", "Transfeyr", "Transfeeyr", "Transfeyyr",
-            "Regretevator", "Gnarpy", "Puro",
-            "Femboy", "Femxboy",
-            "Dr Disrespect",
-            "EDP 445",
-            "Diddy", "Baby Oil",
-            "smartschoolboy9",
-            "Bo Sinn",
-            "Freaky", "Hawk Tua",
-            "Woman Chest", "Cropped Top", "Crop Top", "Cropped Woman Top", "Cropped Women Top",
-            "Body Pillow",
-            "Astolfo", "Raven Team Leader",
-            "Super Happy Face", "Epic Face",
-            "Super Happy Mask"
-        ],
-        "Kick": false,
-        "Reason": "Inappropriate"
+        "KeywordsV2": {
+            "Inappropriate": {
+                "Keywords": [
+                    "Gyat", "Gyaat", "Gyaatt",
+                    "Kemono Cat",
+                    "Transfur", "Transfeyr", "Transfeeyr", "Transfeyyr",
+                    "Regretevator", "Gnarpy", "Puro",
+                    "Femboy", "Femxboy",
+                    "Bo Sinn",
+                    "Freaky",
+                    "Hawk Tua",
+                    "Woman Chest", "Cropped Top", "Crop Top", "Cropped Woman Top", "Cropped Women Top",
+                    "Body Pillow",
+                    "Astolfo", "Raven Team Leader"
+                ],
+                "Kick": false
+            },
+            "Child Endangerment": {
+                "Keywords": [
+                    "Dr Disrespect",
+                    "EDP 445",
+                    "Diddy", "Baby Oil",
+                    "smartschoolboy9"
+                ],
+                "Kick": true
+            },
+            "Copy-Paste Roblox Item": {
+                "Keywords": [
+                    "Super Happy Face", "Epic Face",
+                    "Super Happy Mask"
+                ],
+                "Kick": false
+            }
+        }
     }
 }
