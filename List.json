@@ -2,46 +2,60 @@
     "Configuration" : {
         "BadgeCheck" : true,
         "GroupCheck" : true,
-        "AccessoryCheck" : true
+        "AccessoryCheck" : true,
+        "BundleCheck" : false
     },
-    "BadgeBan": {
-        "IDs": [
+    "BadgeBan" : {
+        "IDs" : [
             2153475714, 2128237516, 2128237640, 286953984328237, 2918283667377974, 2822155970628193,
             2944760459072614
         ],
         "Reason": "Inappropriate",
         "Note": "One of the badges you own are not appropriate.%s"
     },
-    "GroupBan": {
-        "IDs": [
+    "GroupBan" : {
+        "IDs" : [
             15824736, 2900754, 11992066, 6848745, 17229689, 33672457,
 			12000356, 17179149, 33761668, 7765801, 16795620, 8791955,
             34864392, 9654982, 3900741, 34944555, 34874583, 3596946,
             34717641, 33862759, 15205251, 34841849, 4554783, 16709083,
             33849843, 33167644
         ],
-        "Reason": "Inappropriate",
-        "Note": "One of the groups you're in are not appropriate.%s"
+        "Reason" : "Inappropriate",
+        "Note" : "One of the groups you're in are not appropriate.%s"
     },
-    "Accessories": {
-        "TrustedCreatorIDs": [
+    "Accessories" : {
+        "TrustedCreatorIDs" : [
             1
         ],
-        "CreatorIDs": [
-            1906547676, 183607678, 401989564, 188518025, 3572534323, 23988269
-        ],
-        "CreatorGroupIDs": [
-            14615577, 15264691, 34206158, 34518553, 32009710, 32646843,
-            33594932, 5012036, 34864493, 34212918, 34460147, 34216126,
-            33991852, 6118319, 34618121, 34319216, 34580806, 16804698,
-            32897611, 32836034, 34208431
-        ],
-        "AssetIDs": [
-            18208160068, 18208192249, 18208201794, 18208213416, 17896819801, 17866956607
-        ],
-        "KeywordsV2": {
-            "Inappropriate": {
-                "Keywords": [
+        "CreatorIDsV2" : {
+            "Inappropriate" : {
+                "IDs" : [
+                    1906547676, 183607678, 401989564, 188518025, 3572534323, 23988269
+                ]
+            }
+        },
+        "CreatorGroupIDsV2" : {
+            "Inappropriate" : {
+                "IDs" : [
+                    14615577, 15264691, 34206158, 34518553, 32009710, 32646843,
+                    33594932, 5012036, 34864493, 34212918, 34460147, 34216126,
+                    33991852, 6118319, 34618121, 34319216, 34580806, 16804698,
+                    32897611, 32836034, 34208431, 35068879, 34306259, 34998957,
+                    34763869
+                ]
+            }
+        },
+        "AssetIDsV2" : {
+            "Inappropriate" : {
+                "IDs" : [
+                    18208160068, 18208192249, 18208201794, 18208213416, 17896819801, 17866956607
+                ]
+            }
+        },
+        "KeywordsV2" : {
+            "Inappropriate" : {
+                "Keywords" : [
                     "Gyat", "Gyaat", "Gyaatt",
                     "Kemono Cat",
                     "Transfur", "Transfeyr", "Transfeeyr", "Transfeyyr",
@@ -54,23 +68,49 @@
                     "Body Pillow",
                     "Astolfo", "Raven Team Leader"
                 ],
-                "Kick": false
+                "Kick" : false
             },
-            "Child Endangerment": {
-                "Keywords": [
+            "Child Endangerment" : {
+                "Keywords" : [
                     "Dr Disrespect",
                     "EDP 445",
                     "Diddy", "Baby Oil",
                     "smartschoolboy9"
                 ],
-                "Kick": true
+                "Kick" : true
             },
-            "Copy-Paste Roblox Item": {
-                "Keywords": [
+            "Copy-Paste Roblox Item" : {
+                "Keywords" : [
                     "Super Happy Face", "Epic Face",
                     "Super Happy Mask"
                 ],
-                "Kick": false
+                "Kick" : false
+            }
+        }
+    },
+    "Bundles" : {
+        "TrustedCreatorIDs" : [
+            1
+        ],
+        "CreatorIDsV2" : {
+            "Inappropriate" : {
+                "IDs" : [
+                    
+                ]
+            }
+        },
+        "CreatorGroupIDsV2" : {
+            "Inappropriate" : {
+                "IDs" : [
+                    35068879, 34306259, 34998957, 34763869
+                ]
+            }
+        },
+        "AssetIDsV2" : {
+            "Inappropriate" : {
+                "IDs" : [
+                    
+                ]
             }
         }
     }
