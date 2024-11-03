@@ -8,10 +8,10 @@
     "BadgeBan" : {
         "IDs" : [
             2153475714, 2128237516, 2128237640, 286953984328237, 2918283667377974, 2822155970628193,
-            2944760459072614
+            2944760459072614, 2124882523, 2124882525, 2124882527, 2124882529
         ],
         "Reason": "Inappropriate",
-        "Note": "One of the badges you own are not appropriate.%s"
+        "Note": "One of the badges you own are from inappropriate game.%s"
     },
     "GroupBan" : {
         "IDs" : [
