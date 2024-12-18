@@ -66,7 +66,7 @@
                     "Bo Sinn",
                     "Freaky",
                     "Hawk Tua", "Talk Tua",
-                    "Woman Chest", "Cropped Top", "Crop Top", "Cropped Woman Top", "Cropped Women Top",
+                    "Woman Chest",
                     "Body Pillow",
                     "Astolfo", "Raven Team Leader",
                     "Urine"
@@ -83,10 +83,7 @@
                 "Kick" : true
             },
             "Copy-Paste Roblox Item" : {
-                "Keywords" : [
-                    "Super Happy Face", "Epic Face",
-                    "Super Happy Mask"
-                ],
+                "Keywords" : [],
                 "Kick" : false
             }
         }
