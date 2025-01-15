@@ -1,6 +1,6 @@
 {
     "Configuration" : {
-        "BadgeCheck" : true,
+        "BadgeCheck" : false,
         "GroupCheck" : true,
         "AccessoryCheck" : true,
         "BundleCheck" : false
